@@ -1,0 +1,36 @@
+html {
+  font-family: "Noto Serif", serif;
+}
+
+.title {
+  color: #fff;
+}
+
+fieldset {
+
+}
+
+.bole {
+  border-bottom: 2px solid #70ad55;
+  padding-bottom: 20px;
+}
+
+input {
+  border-color: #6e8c62;
+}
+
+hr {
+  border-top: 1px solid #70ad55;
+}
+
+[type="checkbox"] + label::before {
+  border-color: #6e8c62;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .fish {
+    padding-left: 20px;
+  }
+
+}
