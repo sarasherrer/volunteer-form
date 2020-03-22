@@ -4,10 +4,12 @@ html {
 
 .title {
   color: #fff;
+  background-color: #70ad55;
 }
 
 fieldset {
 
+  border: none;
 }
 
 .bole {
